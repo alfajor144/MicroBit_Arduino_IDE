@@ -13,7 +13,8 @@ En este repositorio encontrarás algunos ejemplos para programar la placa de des
 
 *	Conectar la MicroBit a la PC - cargarle "microbit-adv.hex"
 *	Abrir IDE ARDUINO
-*	Ir a archivos - preferencias - agregar esta URL https://sandeepmistry.github.io/arduino-nRF5/package_nRF5_boards_index.json
+*	Ir a archivos - preferencias - agregar esta URL:
+https://sandeepmistry.github.io/arduino-nRF5/package_nRF5_boards_index.json
 *	Herramientas - gestor de tarjetas - ir hasta abajo de todo - instalar Nordic Semiconductor nRF Boards
 *	Herramientas - placa - BBC Micro bit
 *	Soft Device - S110
