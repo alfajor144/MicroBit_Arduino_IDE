@@ -2,6 +2,7 @@
 
 En este repositorio encontrarás algunos ejemplos para programar la placa de desarrollo MicroBit con el IDE de arduino.
 
+* ADC
 * Acelerometro_megnetometro_temperatura
 * Botones
 * LED_PWM
