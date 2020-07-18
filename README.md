@@ -2,13 +2,13 @@
 
 En este repositorio encontrarás algunos ejemplos para programar la placa de desarrollo MicroBit con el IDE de arduino.
 
-* ADC
-* Acelerometro_megnetometro_temperatura
-* Botones
-* LED_PWM
-* Matriz
+* ADC (Entradas analogicas)
+* Acelerometro_megnetometro_temperatura (Sensores de la MicroBit)
+* Botones (Botones integrados a la placa)
+* LED_PWM (Modulado por ancho de pulso de un led RGB)
+* Matriz (Matriz de 25 leds integrada en la placa)
 * OLED (128x32 I2C SSD1306)
-* RADIO
+* RADIO (Radio interno de la MicroBit)
 
 ## Instrucciones Para configurar el IDE de Arduino.
 
